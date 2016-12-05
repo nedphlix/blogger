@@ -35,6 +35,9 @@ end
 # Use Paperclip for file uploads
 gem "paperclip"
 
+# Use Sorcery for authentication
+gem 'sorcery'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
